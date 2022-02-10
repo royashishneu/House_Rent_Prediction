@@ -13,7 +13,7 @@ To help Landlords, Tenants and Investors accurately price rental apartment to cr
 
 ## Our Goal
 
-<img scr="https://github.com/royashishneu/House_Rent_Prediction/blob/main/Screen%20Shot%202022-02-10%20at%204.24.01%20PM.png">
+<img src="https://github.com/royashishneu/House_Rent_Prediction/blob/main/goals.png">
 
 ## Installation
 
@@ -47,6 +47,13 @@ from sklearn.linear_model import LinearRegression
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 ```
+## Models Used
+
+<img src="https://github.com/royashishneu/House_Rent_Prediction/blob/main/models%20used.png">
+
+## Accuracy
+
+<img src="https://github.com/royashishneu/House_Rent_Prediction/blob/main/accuracy.png">
 
 ## How to Use
 
