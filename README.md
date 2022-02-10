@@ -13,7 +13,7 @@ To help Landlords, Tenants and Investors accurately price rental apartment to cr
 
 ## Our Goal
 
-<img scr="https://github.com/royashishneu/House_Rent_Prediction/blob/main/Screen%20Shot%202022-02-10%20at%204.24.01%20PM.png" />
+<img scr="https://github.com/royashishneu/House_Rent_Prediction/blob/main/Screen%20Shot%202022-02-10%20at%204.24.01%20PM.png">
 
 ## Installation
 
